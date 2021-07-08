@@ -16,6 +16,6 @@ Note that we are still following **The Norm**
 
 https://github.com/42School/norminette/tree/master/pdf
 
-that means that we are only allowed to use 4 functions per file, and we can only use 2 files.
+that means that we are only allowed to use 5 functions per file, and we can only use 2 files.
 
 The bonus part asks us to read from different file descriptors.
