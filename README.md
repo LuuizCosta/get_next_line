@@ -7,7 +7,7 @@ Changind completely the way we were doing projects during the basecamp and libft
 
 The essay pdf (that kind of tell us what to do) is very confusing, and most people takes a while to figure out what to do.
 
-After studying about read, open and close, I understood that the file was goint to be opened in a separated file,
+After studying about read, open and close, I understood that the file was going to be opened in a separated file,
 that included the main and only called our GNL function.
 
 We are not allowed to use our previous library (libft), but we can recode any function that we judge necessary.
